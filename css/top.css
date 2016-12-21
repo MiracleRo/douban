@@ -1,0 +1,67 @@
+	/*第一块样式*/
+	.top{
+		height: 90px;
+		}
+	.f-img img{
+		position: absolute;
+		top:21px;
+		left: 198px;
+		}
+	.top input{
+		color: #cccccc;
+		width: 270px;
+		height: 32px;
+		position: absolute;
+		top: 32px;
+		left: 383px;
+		bor
+		}
+	.title div{
+		display: inline;
+		font: 22px 黑体;
+		margin-left: 8px;	
+			}
+	.title{
+		position: relative;
+		top: 15px;
+		left: 320px;
+	 		}
+	 .title a{
+	 	text-decoration: none;
+	 	font-weight: bold;
+	 	position: relative;
+		top: 15px;
+		left: 355px;
+	 }
+	 .title1{
+	 	color: #584029;
+	 }
+	 .title2{
+	 	color: #4ca1d7;
+	 }
+	 .title3{
+	 	color: #f37f00;
+	 }
+	 .title4{
+	 	color: #0f959d;
+	 }
+	 .title5{
+	 	color: #e85205;
+	 }
+	 .title6{
+	 	color:	#b3e0d3;
+	 }
+	 .title7{
+	 	color: #db5140;
+	 }
+	 .title8{
+	 	color: #539200;
+	 }
+	.s-img{
+		position: absolute;
+    	top: 38px;
+    	left: 615px;
+	}
+	a:hover{
+		cursor: pointer;
+	}

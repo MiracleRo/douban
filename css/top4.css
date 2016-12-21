@@ -1,0 +1,127 @@
+ /*第四块样式*/
+ .top4{
+    height: 649px;
+ }
+ .top4 a{
+ 	text-decoration: none;	
+ 	color: #017a85;
+ }
+ .top4 li{
+ 	list-style-type: none;
+
+
+ }
+ 	.achors {
+ 		font-size: 14px;
+ 		line-height: 30px;
+ 	}
+ 	.top4left{
+ 		position: absolute;
+ 		left: 200px;
+ 		top: 840px;
+ 	}
+ 	h2{	
+ 		position: relative;
+ 		left: -3px;
+ 	}
+ 	.top4 a:hover{
+ 		color: white;
+ 		background-color: #017a85;
+ 		border-style: none;
+ 	}
+ 	#top4title{
+ 	font-size: 15px;
+	color: #072;
+ 	}
+ 	.top4 span{
+ 		font-size: 13px;
+ 		position: relative;
+ 		top: -2px;
+ 	}
+ 	.t4con1{
+ 		font-size: 14px;
+ 		position: relative;
+ 		top: -70px;
+ 		left: 65px;
+ 	}
+ 	.t4con1 span{
+ 		position: relative;
+ 		top:-5px;
+ 		color: #999;
+ 	}
+ 	.t4left{
+ 		position: absolute;
+ 		top: 850px;
+ 		left:330px;
+ 	}
+ 	.t4left>div{
+ 		margin-bottom: -30px;
+ 	}
+ 	.t4right{
+ 		position: absolute;
+ 		top: 897px;
+ 		left:620px;
+ 	}
+ 	.t4right>div{
+ 		margin-bottom: -26px;
+ 	}
+	#rightlisttitle{
+	font-size: 15px;
+	color: #072;
+	}	
+	.rightlist{
+		width: 260px;
+		position: absolute;
+		top: 830px;
+		left: 950px;
+	}
+	.rightlist a{
+		
+			text-decoration: none;
+	}
+	.rightlist li{
+			margin-left: 11px;
+			font-size: 13px;
+			list-style-type: none;
+			float: left;
+			line-height: 25px;
+	}
+	.listcon{
+		position:relative;
+		top: -10px;
+		margin-left: -13px;
+
+	}
+	
+	.rightlist2{
+		position: absolute;
+		top: 110px;
+	}
+	.rightlist3{
+		position: absolute;
+		top: 185px;
+	}
+	.rightlist4{
+		position: absolute;
+		top: 235px;
+	}
+	.rightlist5{
+		position: absolute;
+		top: 315px;
+	}
+	.rightlist6{
+		position: absolute;
+		top: 365px;
+	}
+	.rightlist7{
+		position: absolute;
+		top: 440px;
+	}
+	.rightlist8{
+		position: absolute;
+		top: 495px;
+	}
+	.rightlist p a{
+		color: #333;
+		font-size: 14px;
+	}

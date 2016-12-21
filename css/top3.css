@@ -1,0 +1,88 @@
+/*第三块样式*/
+ .top3{
+ 	height: 530px;
+ 	background-color: #f7f7f7;
+ 	font-size: 12px;
+ }
+ .top3 a{
+ 	text-decoration: none;
+ 	color: #37a;
+ }
+ .top3 a:visited{
+ 	color: #669;
+ }
+ .top3 p{
+ 	color: #666;
+ }
+ .t3img{
+ 	position: absolute;
+ 	left: 200px;
+ 	height: 345px;
+ 	width: 406px;
+ 	top: 300px;
+ }
+ .t3img div{
+ 	display: inline;
+ 	
+ }
+ .t3img2{
+ 	position: absolute;
+ 	top:50px; 
+ 	left:180px;
+ }
+ .t3img3{
+ 	position: absolute;
+    top: 255px;
+    left: 0px;
+}
+.t3img4{
+	position: absolute;
+    top: 255px;
+    left: 180px;
+}
+#top3title {
+	font-size: 15px;
+	color: #072;
+}
+.thirdmid{
+	position: absolute;
+	left: 560px;
+	top:333px;
+}
+	.thirdmidp1{
+	line-height: 15px;
+}
+#colorp1{
+	color: #999;
+	margin: -10px 0px;
+}
+#colorp2{
+	color: #666;
+}
+.thirdp2 {
+	line-height: 33px;
+}
+.top3 a:hover{
+	color: white;
+	background-color: #37a;
+}
+#righttitle {
+	font-size: 15px;
+	color: #072;}
+	.thirdright img{
+		width: 260px;
+	}
+	.thirdright{
+		position: absolute;	
+		top: 315px;
+		left: 950px;
+	}
+	.thirdright p{
+		color: #999;
+		line-height: 15px;
+	}
+	.top3 span{
+		font-size: 12px;
+		position: relative;
+		top: -2px;
+	}
